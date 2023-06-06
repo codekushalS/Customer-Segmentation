@@ -1,1 +1,2 @@
-Customer-Segmentation
+# Customer-Segmentation
+The project aims to provide a customer segmentation solution for bank customers. By utilizing data analytics and machine learning techniques, the project analyzes customer demographics, transaction history, and banking behavior to group customers into distinct segments. This segmentation helps banks gain a deeper understanding of their customers and enables them to offer personalized experiences that cater to individual needs
